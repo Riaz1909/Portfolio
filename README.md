@@ -72,7 +72,7 @@ Here are a few of the certifications I’ve earned:
 ## 📜 Certificates
 
 ### 🎮 CODE, DESIGN & PLAY: A Game Development Journey
-<img src="certificates/cert_game_dev.png" alt="Game Dev Certificate" width="600"/>
+<img src="cert1.png" alt="Game Dev Certificate" width="600"/>
 
 ---
 
