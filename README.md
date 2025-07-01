@@ -52,10 +52,6 @@ Quiz Game – A fun and interactive quiz application powered by JavaScript.
 🧪 Skills
 HTML5 & CSS3
 
-JavaScript (ES6+)
-
-React.js
-
 Responsive Design
 
 Git & GitHub
