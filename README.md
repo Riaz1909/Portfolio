@@ -85,7 +85,7 @@ Here are a few of the certifications I’ve earned:
 
 ## 🌐 View My Portfolio Online
 
-👉 **[Click here to view the portfolio on GitHub](file:///D:/Collage/scholarship/portfolio/riazmohd.html)**
+👉 **[Click here to view the portfolio on GitHub]([file:///D:/Collage/scholarship/portfolio/riazmohd.html](http://127.0.0.1:5500/riazmohd.html))**
 
 ---
 
