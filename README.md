@@ -69,14 +69,21 @@ Video Editing
 📜 Certifications
 Here are a few of the certifications I’ve earned:
 
-Certificate	Description
-Basic Web Development Certificate – by TCS iON
-Software Engineering Virtual Experience – by Goldman Sachs
-Workshop on Frontend Web Dev – by TechFest IIT Bombay
-Internship Completion Certificate – by Oasis Infobyte
-Introduction to Programming in C – by NIELIT
-AI & Machine Learning Workshop – by Skill Nation
-Java Programming Certificate – by Spoken Tutorial, IIT Bombay
+## 📜 Certificates
+
+### 🎮 CODE, DESIGN & PLAY: A Game Development Journey
+<img src="certificates/cert_game_dev.png" alt="Game Dev Certificate" width="600"/>
+
+---
+
+### 🤖 AI for Students: Build Your Own Generative AI Model
+<img src="certificates/cert_ai.png" alt="AI Certificate" width="600"/>
+
+---
+
+### 🌱 Paryavaran Sanrakshan - Green Campuses
+<img src="certificates/cert_env.png" alt="Paryavaran Certificate" width="600"/>
+
 
 📬 Contact
 Feel free to connect:
