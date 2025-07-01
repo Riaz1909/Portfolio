@@ -85,11 +85,17 @@ Here are a few of the certifications I’ve earned:
 <img src="cert3.png" alt="Paryavaran Certificate" width="600"/>
 
 
-📬 Contact
-Feel free to connect:
+## 🔗 Connect with Me
 
-GitHub: github.com/Riaz1909
+- 🔗 [GitHub Profile](https://github.com/Riaz1909)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/riaz-mohd-71844b355/)
+- 📧 [Email Me](mailto:riazmohd98769@gmail.com)
 
-Email: [riazmohd98769gmail.com]
-Linkdin: https://www.linkedin.com/in/riaz-mohd-71844b355/
+---
+
+## 🌐 View My Portfolio Online
+
+👉 **[Click here to view the portfolio on GitHub](https://github.com/Riaz1909/Portfolio)**
+
+---
 
