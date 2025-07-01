@@ -19,24 +19,18 @@ To run this project locally on your machine:
 
    ```bash
    git clone https://github.com/Riaz1909/Portfolio.git
-Navigate to the Folder
 
-bash
-Copy
-Edit
+2. bash
 cd Portfolio
-Open the HTML File
 
-Just open riazmohd.html in any web browser:
-
-Double-click riazmohd.html, or
+3. Open the HTML File
+   Just open riazmohd.html in any web browser:
+   Double-click riazmohd.html, or
 
 Use Live Server in VS Code for a better experience
 
 🗂️ Folder Structure
-graphql
-Copy
-Edit
+
 ├── riazmohd.html             # Main portfolio HTML file
 ├── profile.jpg               # Profile image
 ├── dark_background.jpg       # Background image
@@ -44,11 +38,12 @@ Edit
 ├── cert7.jpg                 # JPG certificate image
 ├── README.md                 # This README file
 ├── .gitattributes            # Git configuration
+
 🧠 About Me
 Hi, I'm Riaz Mohd, a Frontend Developer and BCA (AI & ML) student passionate about clean and responsive web design. I love solving problems through code and creating interactive digital experiences.
 
 💼 Projects Showcased
-Portfolio Website – Built with HTML, CSS, and JavaScript to showcase my work.
+Portfolio Website – Built with HTML, CSS showcase my work.
 
 Vehicle Management App – Java-based GUI application for managing vehicle information.
 
