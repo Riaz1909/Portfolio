@@ -85,7 +85,8 @@ Here are a few of the certifications I’ve earned:
 
 ## 🌐 View My Portfolio Online
 
-👉 **[Click here to view the portfolio on GitHub](https://riaz1909.github.io/<portfolio>/)**
+👉 **[Click here to view the portfolio on GitHub](https://riaz1909.github.io/Portfolio/)**  
+
 
 ---
 
