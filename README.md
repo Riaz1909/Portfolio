@@ -77,12 +77,12 @@ Here are a few of the certifications I’ve earned:
 ---
 
 ### 🤖 AI for Students: Build Your Own Generative AI Model
-<img src="certificates/cert_ai.png" alt="AI Certificate" width="600"/>
+<img src="cert2.png" alt="AI Certificate" width="600"/>
 
 ---
 
 ### 🌱 Paryavaran Sanrakshan - Green Campuses
-<img src="certificates/cert_env.png" alt="Paryavaran Certificate" width="600"/>
+<img src="cert3.png" alt="Paryavaran Certificate" width="600"/>
 
 
 📬 Contact
