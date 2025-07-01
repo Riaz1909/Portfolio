@@ -49,7 +49,7 @@ Here are some of the certifications I’ve earned:
 
 You can visit my live portfolio by clicking the link below:
 
-[**Riaz Mohd. Portfolio**]([[https://github.com/your-username/portfolio](http://127.0.0.1:5500/riazmohd.html](https://github.com/Riaz1909/Portfolio))
+[**Riaz Mohd. Portfolio**]([[[https://github.com/your-username/portfolio](http://127.0.0.1:5500/riazmohd.html](https://github.com/Riaz1909/Portfolio)](https://github.com/Riaz1909/Portfolio))
 
 ---
 
