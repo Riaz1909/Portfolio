@@ -1,94 +1,93 @@
-# Riaz Mohd. - Portfolio
+# 💼 Riaz Mohd's Portfolio
 
-Welcome to my personal portfolio! I'm Riaz Mohd., a college student pursuing BCA with a focus on AI & ML. This portfolio showcases my skills, projects, certifications, and accomplishments. Feel free to explore and get to know more about me and the work I've done.
-
-## 👨‍💻 About Me
-
-I am a Frontend Developer with hands-on experience in HTML, CSS, JavaScript, React.js, and Java. I am passionate about coding, building interactive web applications, and diving into Artificial Intelligence and Machine Learning. I aim to blend creativity with technology to create efficient solutions.
+Welcome to my personal portfolio repository! This project showcases who I am, my skills, certifications, and the projects I’ve worked on. It's built using **HTML**, **CSS**, and **JavaScript**, and designed to be responsive and visually engaging.
 
 ---
 
-## 🌟 Projects
+## 🔗 Live Portfolio
 
-Here are some of the key projects I’ve worked on:
-
-1. **Portfolio Website**: A personal portfolio website built with HTML, CSS, and JavaScript to showcase my work.
-2. **Vehicle Management App**: A Java-based application to manage vehicle data.
-3. **Quiz Game**: A fun interactive quiz game built using JavaScript.
-
-You can view all these projects and more in my repository.
+**Click to view:**  
+🌐 [https://riaz1909.github.io/Portfolio](https://riaz1909.github.io/Portfolio)
 
 ---
 
-## 🔧 Skills
+## 🧭 How to Run Locally
 
-- **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), React.js
-- **Backend**: Java, Node.js (learning)
-- **Version Control**: Git & GitHub
-- **Other**: Responsive Design, C Programming, Video Editing
+To run this project locally on your machine:
 
----
+1. **Clone the Repository**
 
-## 🎓 Certifications
-
-Here are some of the certifications I’ve earned:
-
-- **Certification 1** (e.g., "Frontend Development Basics")
-- **Certification 2** (e.g., "React.js Mastery")
-- **Certification 3** (e.g., "Java Programming")
-
-(You can click the images below to see them more clearly.)
-
-![Certifications](cert1.png)  
-![Certifications](cert2.png)  
-![Certifications](cert3.png)
-
----
-
-## 🚀 How to Access My Portfolio
-
-You can visit my live portfolio by clicking the link below:
-
-[**Riaz Mohd. Portfolio**]([[[https://github.com/your-username/portfolio](http://127.0.0.1:5500/riazmohd.html](https://github.com/Riaz1909/Portfolio)](https://github.com/Riaz1909/Portfolio))
-
----
-
-## 📂 Repository Structure
-
-├── index.html # Main HTML page for the portfolio
-├── assets/ # Folder containing images and other media
-│ ├── cert1.png # Certification image 1
-│ └── cert2.png # Certification image 2
-├── css/ # Styles for the portfolio
-│ └── style.css # Main CSS file
-├── js/ # JavaScript for interactive elements
-│ └── script.js # Main JavaScript file
-├── README.md # This file
-└── other-files/ # Additional project files
-
----
-
-## 📍 How to Run Locally
-
-To run the portfolio locally:
-
-1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio.git
-2.Navigate into the project directory:
+   git clone https://github.com/Riaz1909/Portfolio.git
+Navigate to the Folder
 
 bash
-cd portfolio
+Copy
+Edit
+cd Portfolio
+Open the HTML File
 
-3. Open index.html in your browser to view your portfolio.
+Just open riazmohd.html in any web browser:
 
-💬 Contact Me
-You can reach me at:
+Double-click riazmohd.html, or
 
-Email: riazmohd98769@gmail.com
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/riaz-mohd-71844b355/)
+Use Live Server in VS Code for a better experience
 
-GitHub: 
+🗂️ Folder Structure
+graphql
+Copy
+Edit
+├── riazmohd.html             # Main portfolio HTML file
+├── profile.jpg               # Profile image
+├── dark_background.jpg       # Background image
+├── cert1.png to cert6.png    # PNG certificate images
+├── cert7.jpg                 # JPG certificate image
+├── README.md                 # This README file
+├── .gitattributes            # Git configuration
+🧠 About Me
+Hi, I'm Riaz Mohd, a Frontend Developer and BCA (AI & ML) student passionate about clean and responsive web design. I love solving problems through code and creating interactive digital experiences.
 
+💼 Projects Showcased
+Portfolio Website – Built with HTML, CSS, and JavaScript to showcase my work.
 
-Feel free to connect with me, ask questions, or collaborate on projects!
+Vehicle Management App – Java-based GUI application for managing vehicle information.
+
+Quiz Game – A fun and interactive quiz application powered by JavaScript.
+
+🧪 Skills
+HTML5 & CSS3
+
+JavaScript (ES6+)
+
+React.js
+
+Responsive Design
+
+Git & GitHub
+
+C Programming
+
+Java
+
+Video Editing
+
+📜 Certifications
+Here are a few of the certifications I’ve earned:
+
+Certificate	Description
+Basic Web Development Certificate – by TCS iON
+Software Engineering Virtual Experience – by Goldman Sachs
+Workshop on Frontend Web Dev – by TechFest IIT Bombay
+Internship Completion Certificate – by Oasis Infobyte
+Introduction to Programming in C – by NIELIT
+AI & Machine Learning Workshop – by Skill Nation
+Java Programming Certificate – by Spoken Tutorial, IIT Bombay
+
+📬 Contact
+Feel free to connect:
+
+GitHub: github.com/Riaz1909
+
+Email: [riazmohd98769gmail.com]
+Linkdin: https://www.linkedin.com/in/riaz-mohd-71844b355/
+
