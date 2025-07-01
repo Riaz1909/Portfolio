@@ -4,12 +4,6 @@ Welcome to my personal portfolio repository! This project showcases who I am, my
 
 ---
 
-## 🔗 Live Portfolio
-
-**Click to view:**  
-🌐 [https://riaz1909.github.io/Portfolio](https://riaz1909.github.io/Portfolio)
-
----
 
 ## 🧭 How to Run Locally
 
